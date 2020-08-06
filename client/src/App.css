@@ -39,6 +39,11 @@ h4 {
   margin: 0;
   text-transform: uppercase;
 }
+.logo {
+  display: inline-block;
+  margin: 0 auto;
+  width: 80%;
+}
 
 .inc-exp-container {
   background-color: #fff;

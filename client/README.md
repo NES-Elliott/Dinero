@@ -1,2 +1,0 @@
-# Dinero
-Expense tracking application.

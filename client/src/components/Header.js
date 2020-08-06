@@ -1,9 +1,8 @@
 import React from 'react'
+import logo from '../dinerologo.png'
 
 export const Header = () => {
   return (
-    <h2>
-      Expense Tracker
-    </h2>
+    <img className="logo" alt="Dinero: Finance Tracker" src={logo} />
   )
 }
